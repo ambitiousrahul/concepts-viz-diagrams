@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T17:52:01.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="O46ZEqC0ZFUZOKYXsDty" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T11:35:31.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="0WHtMtcYPI9MmLj73jR1" version="17.1.3" type="github">
   <diagram id="-sU3lRYDqtlFAzhdu7HP" name="Page-1">
-    <mxGraphModel dx="1680" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="924" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,8 +125,8 @@
         <mxCell id="ol4tRR3ZWzO9gdeLCyDH-39" value="&lt;b&gt;Fully Differentiable models&lt;/b&gt; - they permit end to end DL for training and inferences by means of gradient descent optimizers. Thus they give highly efficient implementations which can leverage GPUs and TPUs acceleration." style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="960" y="860" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-41" value="Partly Differentiable Models" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="890" width="120" height="60" as="geometry" />
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-41" value="&lt;b&gt;Partly Differentiable Models&lt;/b&gt; - combine non differentiable approaches(&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;like DTs based algorithms&lt;/font&gt;&lt;/i&gt;) with deep neural networks" style="whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="860" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ol4tRR3ZWzO9gdeLCyDH-43" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;NODE &lt;/b&gt;framework&amp;nbsp; which uses ensemble of&amp;nbsp;&lt;a href=&quot;https://www.semanticscholar.org/paper/f123360fe7c9d721524367c51cbbc3205f8166d2&quot; style=&quot;font-size: 13px;&quot;&gt;oblivious decision trees&lt;/a&gt;&amp;nbsp;(&lt;i style=&quot;font-size: 13px;&quot;&gt;DTS that uses same splitting function for all the nodes at the same level&lt;/i&gt;)&amp;nbsp; , &lt;a href=&quot;https://www.semanticscholar.org/paper/3cee801d10f410f0feb1a2390776a01ba2765001&quot; style=&quot;font-size: 13px;&quot;&gt;entmax transformation&lt;/a&gt; , and soft splits to make whole architecture fully differentiable and benefit from end-to-end optimization .&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;NODE framework is used in CatBoost framework&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="445" y="1070" width="280" height="150" as="geometry" />
@@ -154,11 +154,11 @@
         <mxCell id="ol4tRR3ZWzO9gdeLCyDH-49" value="&lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/4187c6acfdf5161bfdbc209a512582de8e24f256&quot;&gt;DNN2LR&lt;/a&gt;&lt;/b&gt; - This is an interpretation inspired feature crossing for linear/logistic regression and deep NN" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="830" y="1440" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-52" value="&lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/1d122a074c936fcfd95faf44608e377a9d1799c8&quot;&gt;DeepFM&lt;/a&gt; &lt;/b&gt;-&amp;nbsp; here ,hand-crafted feature engineering is replaced with automatic FE using Factorization Machines (&lt;b&gt;FM&lt;/b&gt;) leading to increased overall performance&lt;br&gt;FMs are extension of linear models designed to capture interactions between features within high dimensional and sparse data efficiently .&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=13;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="1430" width="260" height="140" as="geometry" />
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-52" value="&lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/1d122a074c936fcfd95faf44608e377a9d1799c8&quot;&gt;DeepFM&lt;/a&gt; &lt;/b&gt;-&amp;nbsp; here ,hand-crafted feature engineering is replaced with automatic Feature Engineering using Factorization Machines (&lt;b&gt;FM&lt;/b&gt;) leading to increased overall performance&lt;br&gt;FMs are extension of linear models designed to capture interactions between features within high dimensional and sparse data efficiently .&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=13;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1430" width="270" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-54" value="NON" style="whiteSpace=wrap;html=1;fontSize=13;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1430" width="120" height="60" as="geometry" />
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-54" value="&lt;b&gt;NON&lt;/b&gt;&amp;nbsp;[&lt;a href=&quot;https://deepai.org/publication/network-on-network-for-tabular-data-classification-in-real-world-applications&quot;&gt;Network on Network Tabular Data Classification Model&lt;/a&gt;] - a 2020 paper tries to improve DeepFM model by aiming to include the&amp;nbsp;&amp;nbsp;non-linear interaction between NN and FM, as well as intra field information per column." style="whiteSpace=wrap;html=1;fontSize=13;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1430" width="250" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
