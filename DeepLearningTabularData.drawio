@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T12:51:08.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="51PUkQNgPsikB8SGNHWr" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T01:28:50.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="ijDDo7hJmTUA5Ub7VDZn" version="17.1.3" type="github">
   <diagram id="-sU3lRYDqtlFAzhdu7HP" name="Page-1">
-    <mxGraphModel dx="972" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1144" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,6 +119,14 @@
         <mxCell id="ol4tRR3ZWzO9gdeLCyDH-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-37" target="ol4tRR3ZWzO9gdeLCyDH-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-37" target="ol4tRR3ZWzO9gdeLCyDH-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1790" y="300" />
+              <mxPoint x="1880" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ol4tRR3ZWzO9gdeLCyDH-37" value="Transformer based model" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1680" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -189,6 +197,9 @@
         </mxCell>
         <mxCell id="ol4tRR3ZWzO9gdeLCyDH-62" value="&lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/3078ef4727c87fe6393517c3a9153bd3d7bf32d5&quot;&gt;ARM-Net&lt;/a&gt;&lt;/b&gt;,&lt;sub&gt;2021&amp;nbsp;&lt;/sub&gt;&lt;font color=&quot;#2e414f&quot; face=&quot;roboto, helvetica neue, arial, sans-serif&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 12px ; line-height: 1 ; background-color: rgb(247 , 252 , 252)&quot;&gt;ARM-Net, an adaptive relation modeling network tailored for structured data, and a lightweight framework ARMOR based on ARM-Net for relational data analytics. The key idea is to model feature interactions with cross features selectively and dynamically, by first transforming the input features into exponential space, and then determining the interaction order and interaction weights adaptively for each cross feature.&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="2190" y="520" width="300" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-64" value="&lt;a href=&quot;https://www.semanticscholar.org/paper/5fa2103e36b3e76e49edb8433a1206a6b25e3ead&quot;&gt;&lt;b&gt;SAINT&lt;/b&gt;&lt;/a&gt;&amp;nbsp;,&lt;sub&gt;2021 &lt;/sub&gt;-performs attention algorithms over row &amp;amp; columns , includes an advanced embedding method for categorical features. Handles missing or noisy data well. Also, bring in&amp;nbsp; a new contrastive self supervised pre-training method for unlabeled data to perform data processing.&lt;br&gt;&lt;br&gt;Uses &lt;a href=&quot;https://www.semanticscholar.org/paper/ed17929e66da7f8fbc3666bf5eb613d302ddde0c&quot;&gt;CutMix,&lt;sub&gt;2019&lt;/sub&gt;&lt;/a&gt;&amp;nbsp;to augment samples in the input space, and &lt;a href=&quot;https://www.semanticscholar.org/paper/4feef0fd284feb1233399b400eb897f59ec92755&quot;&gt;mixup&lt;/a&gt;,&lt;sub&gt;2017&lt;/sub&gt; in the embedding space.&lt;br&gt;&lt;br&gt;Excels previous DN methods, and also classical ML approaches like XGBOOST, CatBoost over a variety of benchmark tasks&lt;br&gt;&lt;br&gt;&lt;br&gt;As it attention based model, so also offers interpretability&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="775" width="350" height="235" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
