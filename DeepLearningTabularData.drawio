@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-03-20T06:30:11.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="lP9K576cDD-m1ltZJ4tD" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-20T07:56:44.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.39" etag="ijExdxGTAf9-Cpc1F7LX" version="17.1.3" type="github">
   <diagram id="-sU3lRYDqtlFAzhdu7HP" name="Page-1">
-    <mxGraphModel dx="4500" dy="2130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="1314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-1" target="ol4tRR3ZWzO9gdeLCyDH-2">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-1" target="ol4tRR3ZWzO9gdeLCyDH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-1" target="ol4tRR3ZWzO9gdeLCyDH-4">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-1" target="ol4tRR3ZWzO9gdeLCyDH-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-1" target="ol4tRR3ZWzO9gdeLCyDH-6">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-1" target="ol4tRR3ZWzO9gdeLCyDH-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="70" />
@@ -18,25 +18,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-1" value="&lt;b&gt;Progress on Deep Learning for Tabular Data&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;https://api.semanticscholar.org/CorpusID:238353897&quot;&gt;Survey paper&lt;/a&gt; [V.Borisov], &lt;sub&gt;published - 5 Oct 2021&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-1" value="&lt;b&gt;Progress on Deep Learning for Tabular Data&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;https://api.semanticscholar.org/CorpusID:238353897&quot;&gt;Survey paper&lt;/a&gt; [V.Borisov], &lt;sub&gt;published - 5 Oct 2021&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="19" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-2" target="ol4tRR3ZWzO9gdeLCyDH-14">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-2" target="ol4tRR3ZWzO9gdeLCyDH-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-2" value="Data Transformation/Encoding&amp;nbsp; Techniques" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-2" value="Data Transformation/Encoding&amp;nbsp; Techniques" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="20" y="140" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-4" target="ol4tRR3ZWzO9gdeLCyDH-35">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-4" target="ol4tRR3ZWzO9gdeLCyDH-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-4" target="ol4tRR3ZWzO9gdeLCyDH-37">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-4" target="ol4tRR3ZWzO9gdeLCyDH-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-4" value="Specialized end-to-end DNN Architectures for tabular data" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-4" value="Specialized end-to-end DNN Architectures for tabular data" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="800" y="200" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-6" target="ol4tRR3ZWzO9gdeLCyDH-66">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-6" target="ol4tRR3ZWzO9gdeLCyDH-66" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1060" y="220" />
@@ -44,12 +44,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-68" value="Strong Regularization of DNN is beneficial for tabular data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=#FBFFBF;" vertex="1" connectable="0" parent="ol4tRR3ZWzO9gdeLCyDH-67">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-68" value="Strong Regularization of DNN is beneficial for tabular data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=#FBFFBF;" parent="ol4tRR3ZWzO9gdeLCyDH-67" vertex="1" connectable="0">
           <mxGeometry x="0.2926" y="-2" relative="1" as="geometry">
             <mxPoint x="-168" y="-96" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-6" target="ol4tRR3ZWzO9gdeLCyDH-69">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-6" target="ol4tRR3ZWzO9gdeLCyDH-69" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1060" y="220" />
@@ -57,10 +57,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-6" value="Regularization Models" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-6" value="Regularization Models" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1000" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-2" target="ol4tRR3ZWzO9gdeLCyDH-17">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-2" target="ol4tRR3ZWzO9gdeLCyDH-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="340" as="sourcePoint" />
             <Array as="points">
@@ -69,46 +69,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-14" target="ol4tRR3ZWzO9gdeLCyDH-23">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-14" target="ol4tRR3ZWzO9gdeLCyDH-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-14" value="&lt;b&gt;Deterministic Techniques&lt;/b&gt;- to be used before training the&amp;nbsp; model" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;align=left;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-14" value="&lt;b&gt;Deterministic Techniques&lt;/b&gt;- to be used before training the&amp;nbsp; model" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;align=left;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="10" y="290" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-17" target="ol4tRR3ZWzO9gdeLCyDH-25">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-17" target="ol4tRR3ZWzO9gdeLCyDH-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-17" value="&lt;b&gt;Automatic Transformation&lt;/b&gt; techniques - more complex &amp;amp; part of the architectures, less interpretable" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;align=left;verticalAlign=top;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-17" value="&lt;b&gt;Automatic Transformation&lt;/b&gt; techniques - more complex &amp;amp; part of the architectures, less interpretable" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;align=left;verticalAlign=top;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="300" y="280" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-23" value="&lt;b&gt;Single Dimensional Techniques.&lt;/b&gt;&lt;br&gt;transform each feature independently&amp;nbsp;&lt;br&gt;e.g.&lt;br&gt;One hot encoding&lt;br&gt;Label encoding&lt;br&gt;Binary encoding&lt;br&gt;Hash based encoding&lt;br&gt;Leave one out encoding" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-23" value="&lt;b&gt;Single Dimensional Techniques.&lt;/b&gt;&lt;br&gt;transform each feature independently&amp;nbsp;&lt;br&gt;e.g.&lt;br&gt;One hot encoding&lt;br&gt;Label encoding&lt;br&gt;Binary encoding&lt;br&gt;Hash based encoding&lt;br&gt;Leave one out encoding" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="10" y="411" width="210" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-25" target="ol4tRR3ZWzO9gdeLCyDH-27">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-25" target="ol4tRR3ZWzO9gdeLCyDH-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-25" target="ol4tRR3ZWzO9gdeLCyDH-29">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-25" target="ol4tRR3ZWzO9gdeLCyDH-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-25" target="ol4tRR3ZWzO9gdeLCyDH-31">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-25" target="ol4tRR3ZWzO9gdeLCyDH-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-25" value="&lt;b&gt;Multi-dimensional encoding &lt;/b&gt;- map an entire data record to another representation." style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-25" value="&lt;b&gt;Multi-dimensional encoding &lt;/b&gt;- map an entire data record to another representation." style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="322.5" y="430" width="197.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-27" value="1. &lt;b&gt;Transform&amp;nbsp; raw data&lt;/b&gt;(&lt;i&gt;categorical features &amp;amp; numerical features&lt;/i&gt;)&amp;nbsp; &lt;b&gt;into new homogenous and informative representations entirely &lt;/b&gt;using approaches such as &lt;a href=&quot;https://www.semanticscholar.org/paper/1be6ddac2e262ff915c9fc2eacbf615082240219&quot;&gt;VIME&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;kind of Specialized architectures" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-27" value="1. &lt;b&gt;Transform&amp;nbsp; raw data&lt;/b&gt;(&lt;i&gt;categorical features &amp;amp; numerical features&lt;/i&gt;)&amp;nbsp; &lt;b&gt;into new homogenous and informative representations entirely &lt;/b&gt;using approaches such as &lt;a href=&quot;https://www.semanticscholar.org/paper/1be6ddac2e262ff915c9fc2eacbf615082240219&quot;&gt;VIME&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;kind of Specialized architectures" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="680" width="270" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-29" value="2. &lt;b&gt;Transforming the raw data&lt;/b&gt; (1-d matrixes) &lt;b&gt;into visual image like arrays&lt;/b&gt;(2-d matrixes) and then passing it to CNN like in &lt;a href=&quot;https://www.semanticscholar.org/paper/504fd8a5eec03ec865f43cae9886004ac7b96d67&quot;&gt;SuperTML &lt;/a&gt;paper" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-29" value="2. &lt;b&gt;Transforming the raw data&lt;/b&gt; (1-d matrixes) &lt;b&gt;into visual image like arrays&lt;/b&gt;(2-d matrixes) and then passing it to CNN like in &lt;a href=&quot;https://www.semanticscholar.org/paper/504fd8a5eec03ec865f43cae9886004ac7b96d67&quot;&gt;SuperTML &lt;/a&gt;paper" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="670" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-31" value="3. &lt;b&gt;create entity embeddings&lt;/b&gt;(which are basically Euclidian distances approximation) of categorical features and pass it as features to any leaned ML algorithm.&amp;nbsp;&lt;br&gt;as in &lt;a href=&quot;https://www.semanticscholar.org/paper/f9408afe434ab6ea5e852d92d5454063815a8685&quot;&gt;paper&lt;/a&gt;&lt;br&gt;particularly beneficial for sparse data or data with high cardinality categorical features." style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-31" value="3. &lt;b&gt;create entity embeddings&lt;/b&gt;(which are basically Euclidian distances approximation) of categorical features and pass it as features to any leaned ML algorithm.&amp;nbsp;&lt;br&gt;as in &lt;a href=&quot;https://www.semanticscholar.org/paper/f9408afe434ab6ea5e852d92d5454063815a8685&quot;&gt;paper&lt;/a&gt;&lt;br&gt;particularly beneficial for sparse data or data with high cardinality categorical features." style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="655" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-33" value="&lt;i&gt;Entity Embeddings of categorical features are better than simple one hot encoding&lt;/i&gt; in a way that they take less memory and also reduces training time" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-33" value="&lt;i&gt;Entity Embeddings of categorical features are better than simple one hot encoding&lt;/i&gt; in a way that they take less memory and also reduces training time" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1040" y="620" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=-0.019;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.642;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-31" target="ol4tRR3ZWzO9gdeLCyDH-33">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=-0.019;entryY=0.16;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.642;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-31" target="ol4tRR3ZWzO9gdeLCyDH-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="650" as="sourcePoint" />
             <mxPoint x="950" y="600" as="targetPoint" />
@@ -117,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-35" target="ol4tRR3ZWzO9gdeLCyDH-39">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-35" target="ol4tRR3ZWzO9gdeLCyDH-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1010" y="690" />
@@ -125,22 +125,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-35" target="ol4tRR3ZWzO9gdeLCyDH-41">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-35" target="ol4tRR3ZWzO9gdeLCyDH-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-35" value="&lt;b&gt;Hybrid Models &lt;/b&gt;- combinations of classical ML approaches like (DTSs, LRs) with DNN&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-35" value="&lt;b&gt;Hybrid Models &lt;/b&gt;- combinations of classical ML approaches like (DTSs, LRs) with DNN&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="990" y="350" width="210" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-37" target="ol4tRR3ZWzO9gdeLCyDH-58">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-37" target="ol4tRR3ZWzO9gdeLCyDH-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-37" target="ol4tRR3ZWzO9gdeLCyDH-60">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-37" target="ol4tRR3ZWzO9gdeLCyDH-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-37" target="ol4tRR3ZWzO9gdeLCyDH-62">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-37" target="ol4tRR3ZWzO9gdeLCyDH-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-37" target="ol4tRR3ZWzO9gdeLCyDH-64">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-37" target="ol4tRR3ZWzO9gdeLCyDH-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1790" y="300" />
@@ -148,22 +148,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-37" value="Transformer based model" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-37" value="Transformer based model" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1680" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-39" target="ol4tRR3ZWzO9gdeLCyDH-43">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-39" target="ol4tRR3ZWzO9gdeLCyDH-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-39" target="ol4tRR3ZWzO9gdeLCyDH-45">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-39" target="ol4tRR3ZWzO9gdeLCyDH-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-39" target="ol4tRR3ZWzO9gdeLCyDH-47">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-39" target="ol4tRR3ZWzO9gdeLCyDH-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-39" value="&lt;b&gt;Fully Differentiable models&lt;/b&gt; - they permit end to end DL for training and inferences by means of gradient descent optimizers. Thus they give highly efficient implementations which can leverage GPUs and TPUs acceleration." style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-39" value="&lt;b&gt;Fully Differentiable models&lt;/b&gt; - they permit end to end DL for training and inferences by means of gradient descent optimizers. Thus they give highly efficient implementations which can leverage GPUs and TPUs acceleration." style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="960" y="860" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-41" target="ol4tRR3ZWzO9gdeLCyDH-56">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-41" target="ol4tRR3ZWzO9gdeLCyDH-56" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1680" y="920" />
@@ -172,16 +172,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-41" value="&lt;b&gt;Partly Differentiable Models&lt;/b&gt; - section of hybrid models that aims to combine non differentiable approaches(&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;like DTs based algorithms&lt;/font&gt;&lt;/i&gt;) with deep neural networks" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-41" value="&lt;b&gt;Partly Differentiable Models&lt;/b&gt; - section of hybrid models that aims to combine non differentiable approaches(&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;like DTs based algorithms&lt;/font&gt;&lt;/i&gt;) with deep neural networks" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1410" y="860" width="220" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-43" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;NODE &lt;/b&gt;framework&amp;nbsp; which uses ensemble of&amp;nbsp;&lt;a href=&quot;https://www.semanticscholar.org/paper/f123360fe7c9d721524367c51cbbc3205f8166d2&quot; style=&quot;font-size: 13px;&quot;&gt;oblivious decision trees&lt;/a&gt;&amp;nbsp;(&lt;i style=&quot;font-size: 13px;&quot;&gt;DTS that uses same splitting function for all the nodes at the same level&lt;/i&gt;)&amp;nbsp; , &lt;a href=&quot;https://www.semanticscholar.org/paper/3cee801d10f410f0feb1a2390776a01ba2765001&quot; style=&quot;font-size: 13px;&quot;&gt;entmax transformation&lt;/a&gt; , and soft splits to make whole architecture fully differentiable and benefit from end-to-end optimization .&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;NODE framework is used in CatBoost framework&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-43" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;NODE &lt;/b&gt;framework&amp;nbsp; which uses ensemble of&amp;nbsp;&lt;a href=&quot;https://www.semanticscholar.org/paper/f123360fe7c9d721524367c51cbbc3205f8166d2&quot; style=&quot;font-size: 13px;&quot;&gt;oblivious decision trees&lt;/a&gt;&amp;nbsp;(&lt;i style=&quot;font-size: 13px;&quot;&gt;DTS that uses same splitting function for all the nodes at the same level&lt;/i&gt;)&amp;nbsp; , &lt;a href=&quot;https://www.semanticscholar.org/paper/3cee801d10f410f0feb1a2390776a01ba2765001&quot; style=&quot;font-size: 13px;&quot;&gt;entmax transformation&lt;/a&gt; , and soft splits to make whole architecture fully differentiable and benefit from end-to-end optimization .&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;NODE framework is used in CatBoost framework&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="445" y="1070" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-45" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;Net- DFE &lt;/b&gt;-&amp;nbsp;A 2021 &lt;a href=&quot;https://www.semanticscholar.org/paper/af5151a0b22be3cb9a107c6af563b3603156246b&quot; style=&quot;font-size: 13px;&quot;&gt;paper&lt;/a&gt;&amp;nbsp;in which the NN tries to imitate the gradient boosting DTs algorithm characteristics and perform well on classification task , on dataset&amp;nbsp; which had mostly numerical features and no missing values. How to handle high cardinality features to train in this model is yet to be explored" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-45" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;Net- DFE &lt;/b&gt;-&amp;nbsp;A 2021 &lt;a href=&quot;https://www.semanticscholar.org/paper/af5151a0b22be3cb9a107c6af563b3603156246b&quot; style=&quot;font-size: 13px;&quot;&gt;paper&lt;/a&gt;&amp;nbsp;in which the NN tries to imitate the gradient boosting DTs algorithm characteristics and perform well on classification task , on dataset&amp;nbsp; which had mostly numerical features and no missing values. How to handle high cardinality features to train in this model is yet to be explored" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="810" y="1070" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-47" target="ol4tRR3ZWzO9gdeLCyDH-49">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-47" target="ol4tRR3ZWzO9gdeLCyDH-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1240" y="1260" />
@@ -189,49 +189,49 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-47" target="ol4tRR3ZWzO9gdeLCyDH-52">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-47" target="ol4tRR3ZWzO9gdeLCyDH-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-47" target="ol4tRR3ZWzO9gdeLCyDH-54">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-47" target="ol4tRR3ZWzO9gdeLCyDH-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-47" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Wide&amp;amp;Deep Models(W&amp;amp;D)&lt;/b&gt;&lt;span&gt; -hybrid models which does feature crossing between linear models (&lt;/span&gt;&lt;i&gt;linear &amp;amp; logistic regression&lt;/i&gt;&lt;span&gt;) for&amp;nbsp; interpretability &amp;amp; deep NN for feature selection by finding non-linear way of correlations between the features&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Wide&amp;amp; Deep models also learns n-dimensional embedding vectors for each categorical features. All embeddings are concatenated resulting in a dense vector which is then passed to the neural network inside the W&amp;amp;D&amp;nbsp; model.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Final prediction can be said as sum of both models&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-47" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Wide&amp;amp;Deep Models(W&amp;amp;D)&lt;/b&gt;&lt;span&gt; -hybrid models which does feature crossing between linear models (&lt;/span&gt;&lt;i&gt;linear &amp;amp; logistic regression&lt;/i&gt;&lt;span&gt;) for&amp;nbsp; interpretability &amp;amp; deep NN for feature selection by finding non-linear way of correlations between the features&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Wide&amp;amp; Deep models also learns n-dimensional embedding vectors for each categorical features. All embeddings are concatenated resulting in a dense vector which is then passed to the neural network inside the W&amp;amp;D&amp;nbsp; model.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Final prediction can be said as sum of both models&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;verticalAlign=top;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1210" y="1100" width="330" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-49" value="&lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/4187c6acfdf5161bfdbc209a512582de8e24f256&quot;&gt;DNN2LR&lt;/a&gt;&lt;/b&gt; - This is an interpretation inspired feature crossing for linear/logistic regression and deep NN" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-49" value="&lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/4187c6acfdf5161bfdbc209a512582de8e24f256&quot;&gt;DNN2LR&lt;/a&gt;&lt;/b&gt; - This is an interpretation inspired feature crossing for linear/logistic regression and deep NN" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="830" y="1440" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-52" value="&lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/1d122a074c936fcfd95faf44608e377a9d1799c8&quot;&gt;DeepFM&lt;/a&gt; &lt;/b&gt;-&amp;nbsp; here ,hand-crafted feature engineering is replaced with automatic Feature Engineering using Factorization Machines (&lt;b&gt;FM&lt;/b&gt;) leading to increased overall performance&lt;br&gt;FMs are extension of linear models designed to capture interactions between features within high dimensional and sparse data efficiently .&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=13;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-52" value="&lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/1d122a074c936fcfd95faf44608e377a9d1799c8&quot;&gt;DeepFM&lt;/a&gt; &lt;/b&gt;-&amp;nbsp; here ,hand-crafted feature engineering is replaced with automatic Feature Engineering using Factorization Machines (&lt;b&gt;FM&lt;/b&gt;) leading to increased overall performance&lt;br&gt;FMs are extension of linear models designed to capture interactions between features within high dimensional and sparse data efficiently .&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=13;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1060" y="1430" width="270" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-54" value="&lt;b&gt;NON&lt;/b&gt;&amp;nbsp;[&lt;a href=&quot;https://deepai.org/publication/network-on-network-for-tabular-data-classification-in-real-world-applications&quot;&gt;Network on Network Tabular Data Classification Model&lt;/a&gt;] - a 2020 paper tries to improve DeepFM model by aiming to include the&amp;nbsp;&amp;nbsp;non-linear interaction between NN and FM, as well as intra field information per column." style="whiteSpace=wrap;html=1;fontSize=13;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-54" value="&lt;b&gt;NON&lt;/b&gt;&amp;nbsp;[&lt;a href=&quot;https://deepai.org/publication/network-on-network-for-tabular-data-classification-in-real-world-applications&quot;&gt;Network on Network Tabular Data Classification Model&lt;/a&gt;] - a 2020 paper tries to improve DeepFM model by aiming to include the&amp;nbsp;&amp;nbsp;non-linear interaction between NN and FM, as well as intra field information per column." style="whiteSpace=wrap;html=1;fontSize=13;verticalAlign=middle;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1400" y="1430" width="250" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-56" value="&lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/07d38f062da2f13e3ff532d630aacc3e8dcaccca&quot;&gt;Boosted Graph Neural Network&lt;/a&gt;&lt;/b&gt; - for graph representational data nodes containing tabular features, this 2021 paper tries to bring gradient boosting DT (&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;which generally outperform other ML operations when faced with heterogenous tabular data&lt;/i&gt;&lt;/font&gt;) and GNN( &lt;font style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;which accounts for the graph structure&lt;/i&gt;&lt;/font&gt;)&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-56" value="&lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/07d38f062da2f13e3ff532d630aacc3e8dcaccca&quot;&gt;Boosted Graph Neural Network&lt;/a&gt;&lt;/b&gt; - for graph representational data nodes containing tabular features, this 2021 paper tries to bring gradient boosting DT (&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;which generally outperform other ML operations when faced with heterogenous tabular data&lt;/i&gt;&lt;/font&gt;) and GNN( &lt;font style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;which accounts for the graph structure&lt;/i&gt;&lt;/font&gt;)&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1630" y="1100" width="270" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-58" value="&lt;a href=&quot;https://www.semanticscholar.org/paper/efbd8e7a45cac8f025ba8a4de95b492d8d392c95&quot;&gt;&lt;b&gt;TabNet&lt;/b&gt;&lt;/a&gt;,&lt;sub&gt;2019&lt;/sub&gt;&amp;nbsp;- A sequential attention based approach for tabular data&amp;nbsp; which performs well &lt;i&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;especially&lt;/font&gt;&lt;/i&gt; on dataset where unlabeled data is abundant. It also demonstrates that self-supervised learning for tabular data is done with unsupervised representation learning, performed is significantly improved.&lt;br&gt;&lt;br&gt;TabNet performs &lt;i&gt;instance wise feature selection&lt;/i&gt;, using sparse feature mask by each of its subnetwork after receiving the data batch ,&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-58" value="&lt;a href=&quot;https://www.semanticscholar.org/paper/efbd8e7a45cac8f025ba8a4de95b492d8d392c95&quot;&gt;&lt;b&gt;TabNet&lt;/b&gt;&lt;/a&gt;,&lt;sub&gt;2019&lt;/sub&gt;&amp;nbsp;- A sequential attention based approach for tabular data&amp;nbsp; which performs well &lt;i&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;especially&lt;/font&gt;&lt;/i&gt; on dataset where unlabeled data is abundant. It also demonstrates that self-supervised learning for tabular data is done with unsupervised representation learning, performed is significantly improved.&lt;br&gt;&lt;br&gt;TabNet performs &lt;i&gt;instance wise feature selection&lt;/i&gt;, using sparse feature mask by each of its subnetwork after receiving the data batch ,&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1700" y="520" width="260" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-60" value="&lt;a href=&quot;https://www.semanticscholar.org/paper/a2ec47b9bcc95d2456a8a42199233e5d9129ef18&quot;&gt;&lt;b&gt;TabTranformer&lt;/b&gt;&lt;/a&gt;,&lt;sub&gt;2020&lt;/sub&gt; - uses &lt;i&gt;contextual embeddings&lt;/i&gt;(CE) for tabular data. CE are the mappings of categorical features in the tabular data using self attention based transformers. &lt;u&gt;This embedding is more robust to missing or noisy data and also enables interpretability.&lt;/u&gt;&amp;nbsp; This generated CEs are then used as in input for the multilayer perceptron.&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-60" value="&lt;a href=&quot;https://www.semanticscholar.org/paper/a2ec47b9bcc95d2456a8a42199233e5d9129ef18&quot;&gt;&lt;b&gt;TabTranformer&lt;/b&gt;&lt;/a&gt;,&lt;sub&gt;2020&lt;/sub&gt; - uses &lt;i&gt;contextual embeddings&lt;/i&gt;(CE) for tabular data. CE are the mappings of categorical features in the tabular data using self attention based transformers. &lt;u&gt;This embedding is more robust to missing or noisy data and also enables interpretability.&lt;/u&gt;&amp;nbsp; This generated CEs are then used as in input for the multilayer perceptron.&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1980" y="550" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-62" value="&lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/3078ef4727c87fe6393517c3a9153bd3d7bf32d5&quot;&gt;ARM-Net&lt;/a&gt;&lt;/b&gt;,&lt;sub&gt;2021&amp;nbsp;&lt;/sub&gt;&lt;font color=&quot;#2e414f&quot; face=&quot;roboto, helvetica neue, arial, sans-serif&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 12px ; line-height: 1 ; background-color: rgb(247 , 252 , 252)&quot;&gt;ARM-Net, an adaptive relation modeling network tailored for structured data, and a lightweight framework ARMOR based on ARM-Net for relational data analytics. The key idea is to model feature interactions with cross features selectively and dynamically, by first transforming the input features into exponential space, and then determining the interaction order and interaction weights adaptively for each cross feature.&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-62" value="&lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/3078ef4727c87fe6393517c3a9153bd3d7bf32d5&quot;&gt;ARM-Net&lt;/a&gt;&lt;/b&gt;,&lt;sub&gt;2021&amp;nbsp;&lt;/sub&gt;&lt;font color=&quot;#2e414f&quot; face=&quot;roboto, helvetica neue, arial, sans-serif&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 12px ; line-height: 1 ; background-color: rgb(247 , 252 , 252)&quot;&gt;ARM-Net, an adaptive relation modeling network tailored for structured data, and a lightweight framework ARMOR based on ARM-Net for relational data analytics. The key idea is to model feature interactions with cross features selectively and dynamically, by first transforming the input features into exponential space, and then determining the interaction order and interaction weights adaptively for each cross feature.&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="2270" y="530" width="300" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-64" value="&lt;a href=&quot;https://www.semanticscholar.org/paper/5fa2103e36b3e76e49edb8433a1206a6b25e3ead&quot;&gt;&lt;b&gt;SAINT&lt;/b&gt;&lt;/a&gt;&amp;nbsp;,&lt;sub&gt;2021 &lt;/sub&gt;-performs attention algorithms over row &amp;amp; columns , includes an advanced embedding method for categorical features. Handles missing or noisy data well. Also, bring in&amp;nbsp; a new contrastive self supervised pre-training method for unlabeled data to perform data processing.&lt;br&gt;&lt;br&gt;Uses &lt;a href=&quot;https://www.semanticscholar.org/paper/ed17929e66da7f8fbc3666bf5eb613d302ddde0c&quot;&gt;CutMix,&lt;sub&gt;2019&lt;/sub&gt;&lt;/a&gt;&amp;nbsp;to augment samples in the input space, and &lt;a href=&quot;https://www.semanticscholar.org/paper/4feef0fd284feb1233399b400eb897f59ec92755&quot;&gt;mixup&lt;/a&gt;,&lt;sub&gt;2017&lt;/sub&gt; in the embedding space.&lt;br&gt;&lt;br&gt;Excels previous DN methods, and also classical ML approaches like XGBOOST, CatBoost over a variety of benchmark tasks&lt;br&gt;&lt;br&gt;&lt;br&gt;As it attention based model, so also offers interpretability&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-64" value="&lt;a href=&quot;https://www.semanticscholar.org/paper/5fa2103e36b3e76e49edb8433a1206a6b25e3ead&quot;&gt;&lt;b&gt;SAINT&lt;/b&gt;&lt;/a&gt;&amp;nbsp;,&lt;sub&gt;2021 &lt;/sub&gt;-performs attention algorithms over row &amp;amp; columns , includes an advanced embedding method for categorical features. Handles missing or noisy data well. Also, bring in&amp;nbsp; a new contrastive self supervised pre-training method for unlabeled data to perform data processing.&lt;br&gt;&lt;br&gt;Uses &lt;a href=&quot;https://www.semanticscholar.org/paper/ed17929e66da7f8fbc3666bf5eb613d302ddde0c&quot;&gt;CutMix,&lt;sub&gt;2019&lt;/sub&gt;&lt;/a&gt;&amp;nbsp;to augment samples in the input space, and &lt;a href=&quot;https://www.semanticscholar.org/paper/4feef0fd284feb1233399b400eb897f59ec92755&quot;&gt;mixup&lt;/a&gt;,&lt;sub&gt;2017&lt;/sub&gt; in the embedding space.&lt;br&gt;&lt;br&gt;Excels previous DN methods, and also classical ML approaches like XGBOOST, CatBoost over a variety of benchmark tasks&lt;br&gt;&lt;br&gt;&lt;br&gt;As it attention based model, so also offers interpretability&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1760" y="775" width="350" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-66" value="Regularization with &lt;a href=&quot;https://www.semanticscholar.org/paper/d310563ba4225e6f8677995ecf70aff268ea3e46&quot;&gt;&lt;b&gt;CancelOut&lt;/b&gt;&lt;/a&gt;,&lt;sub&gt;2019&lt;/sub&gt; layer in DNN is proven to do feature selection and feature ranking better than traditional feature analysis techniques for tabular data. Notably, layer is easy to add to any existing DNN architecture&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-66" value="Regularization with &lt;a href=&quot;https://www.semanticscholar.org/paper/d310563ba4225e6f8677995ecf70aff268ea3e46&quot;&gt;&lt;b&gt;CancelOut&lt;/b&gt;&lt;/a&gt;,&lt;sub&gt;2019&lt;/sub&gt; layer in DNN is proven to do feature selection and feature ranking better than traditional feature analysis techniques for tabular data. Notably, layer is easy to add to any existing DNN architecture&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1155" y="480" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-69" value="This &lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/07b64856abe1b69dba22da9ca69781d96ea6ecaa&quot;&gt;paper&lt;/a&gt;,&lt;sub&gt;2021&lt;/sub&gt;&lt;/b&gt; proposes a cocktail of regularization with 13 different techniques applied jointly. The authors demonstrate that even a simple multilayer perceptron can outperform even tree based architectures.&lt;br&gt;&lt;br&gt;But downside is that due to extensive per data-set regularization and hyper parameter optimization takes much more computation time than the gradient boosting DTs&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-69" value="This &lt;b&gt;&lt;a href=&quot;https://www.semanticscholar.org/paper/07b64856abe1b69dba22da9ca69781d96ea6ecaa&quot;&gt;paper&lt;/a&gt;,&lt;sub&gt;2021&lt;/sub&gt;&lt;/b&gt; proposes a cocktail of regularization with 13 different techniques applied jointly. The authors demonstrate that even a simple multilayer perceptron can outperform even tree based architectures.&lt;br&gt;&lt;br&gt;But downside is that due to extensive per data-set regularization and hyper parameter optimization takes much more computation time than the gradient boosting DTs&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1770" y="110" width="250" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-71" value="&lt;b&gt;Regularization Learning network(&lt;a href=&quot;https://www.semanticscholar.org/paper/4f8d648c52edf74e41b0996128aa536e13cc7e82&quot;&gt;RLN&lt;/a&gt;)&lt;/b&gt; - here sensitivity is reduced by applying trainable regularization coefficients to each weight in the neural network. These coefficients values are determined by a new loss function - &quot;&lt;i&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Counterfactual Loss&lt;/font&gt;&lt;/i&gt;&quot;&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-71" value="&lt;b&gt;Regularization Learning network(&lt;a href=&quot;https://www.semanticscholar.org/paper/4f8d648c52edf74e41b0996128aa536e13cc7e82&quot;&gt;RLN&lt;/a&gt;)&lt;/b&gt; - here sensitivity is reduced by applying trainable regularization coefficients to each weight in the neural network. These coefficients values are determined by a new loss function - &quot;&lt;i&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Counterfactual Loss&lt;/font&gt;&lt;/i&gt;&quot;&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1410" y="250" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-73" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-6" target="ol4tRR3ZWzO9gdeLCyDH-71">
+        <mxCell id="ol4tRR3ZWzO9gdeLCyDH-73" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="ol4tRR3ZWzO9gdeLCyDH-6" target="ol4tRR3ZWzO9gdeLCyDH-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1230" y="330" as="sourcePoint" />
             <mxPoint x="1280" y="280" as="targetPoint" />
